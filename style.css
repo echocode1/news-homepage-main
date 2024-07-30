@@ -75,7 +75,7 @@ img{
 #nav-text{
     background-color: var(--Off-white);
     min-height: 100vh;
-    flex: 0 0 50%;
+    flex: 0 0 65%;
     padding: 30px;
     font-size: 1.3rem;
     color: var(--Very-dark-blue);
